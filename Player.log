@@ -20,10 +20,10 @@ L_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_ob
 _10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT
 _texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_N
 V_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 750638304
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1036459280
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.160 seconds
-- Finished resetting the current domain, in  0.004 seconds
+- Loaded All Assemblies, in  0.093 seconds
+- Finished resetting the current domain, in  0.002 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -32,149 +32,97 @@ Begin MonoManager ReloadAssembly
 [Physics::Module] Threading Mode: Multi-Threaded
 Default vsync count 1
 requesting resize 1920 x 1080
-Using native desktop resolution 1920 x 1080
-requesting fullscreen 1920 x 1080 at 0/1 Hz
+resizing window to 1920 x 1080
 Desktop is 1920 x 1080 @ 60 Hz
-UnloadTime: 0.537503 ms
+UnloadTime: 0.366147 ms
 No online subsystems packaged.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 4.093208 ms
+UnloadTime: 1.533344 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'RU'
 Restored language code 'RU'
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6170.
-Total: 7.020010 ms (FindLiveObjects: 0.412376 ms CreateObjectMapping: 0.317696 ms MarkObjects: 6.246219 ms  DeleteObjects: 0.043239 ms)
+Total: 3.845470 ms (FindLiveObjects: 0.284841 ms CreateObjectMapping: 0.090219 ms MarkObjects: 3.441398 ms  DeleteObjects: 0.028494 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 528)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6170.
-Total: 5.722165 ms (FindLiveObjects: 0.309809 ms CreateObjectMapping: 0.267993 ms MarkObjects: 5.127116 ms  DeleteObjects: 0.016788 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6170.
+Total: 3.103192 ms (FindLiveObjects: 0.235966 ms CreateObjectMapping: 0.175683 ms MarkObjects: 2.673410 ms  DeleteObjects: 0.017786 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 31.574197 ms
+UnloadTime: 26.244276 ms
+Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
+Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
 Loaded saved language code 'RU'
 Restored language code 'RU'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67098.
-Total: 36.926035 ms (FindLiveObjects: 3.689280 ms CreateObjectMapping: 3.073289 ms MarkObjects: 29.501706 ms  DeleteObjects: 0.661103 ms)
+Total: 26.751423 ms (FindLiveObjects: 2.437852 ms CreateObjectMapping: 2.172363 ms MarkObjects: 21.850411 ms  DeleteObjects: 0.290152 ms)
 
-Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
-Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 597)
-Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 130936.
-Total: 80.193009 ms (FindLiveObjects: 9.370843 ms CreateObjectMapping: 4.495218 ms MarkObjects: 64.734601 ms  DeleteObjects: 1.591448 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 562)
+Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 109356.
+Total: 49.072887 ms (FindLiveObjects: 4.383292 ms CreateObjectMapping: 2.949614 ms MarkObjects: 41.018026 ms  DeleteObjects: 0.721621 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-GameObject is already being activated or deactivated.
-GameObject is already being activated or deactivated.
-Cannot set the parent of the GameObject 'Corpse Roachfeeder Tall(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
-Unloading 3396 unused Assets to reduce memory usage. Loaded Objects now: 145224.
-Total: 152.136446 ms (FindLiveObjects: 18.632109 ms CreateObjectMapping: 4.585011 ms MarkObjects: 117.533114 ms  DeleteObjects: 11.385559 ms)
-
-GameObject is already being activated or deactivated.
-Cannot set the parent of the GameObject 'Corpse Roachfeeder Tall(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
-Unloading 830 unused Assets to reduce memory usage. Loaded Objects now: 146586.
-Total: 120.495442 ms (FindLiveObjects: 7.863839 ms CreateObjectMapping: 3.658492 ms MarkObjects: 103.803614 ms  DeleteObjects: 5.168948 ms)
-
-Cannot set the parent of the GameObject 'Pin' while activating or deactivating the parent GameObject 'Art'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 638)
-Unloading 4320 unused Assets to reduce memory usage. Loaded Objects now: 145711.
-Total: 154.590999 ms (FindLiveObjects: 10.245709 ms CreateObjectMapping: 4.447215 ms MarkObjects: 120.005140 ms  DeleteObjects: 19.892435 ms)
-
-Cannot set the parent of the GameObject 'Corpse Roachfeeder Tall(Clone)' while activating or deactivating the parent GameObject 'Art'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
-Unloading 747 unused Assets to reduce memory usage. Loaded Objects now: 146845.
-Total: 120.286992 ms (FindLiveObjects: 8.621113 ms CreateObjectMapping: 4.239774 ms MarkObjects: 101.443329 ms  DeleteObjects: 5.982118 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
-Unloading 3219 unused Assets to reduce memory usage. Loaded Objects now: 145865.
-Total: 138.625859 ms (FindLiveObjects: 9.195992 ms CreateObjectMapping: 4.466949 ms MarkObjects: 108.223502 ms  DeleteObjects: 16.738836 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
-Unloading 1544 unused Assets to reduce memory usage. Loaded Objects now: 148722.
-Total: 141.914624 ms (FindLiveObjects: 12.042458 ms CreateObjectMapping: 4.111221 ms MarkObjects: 116.226149 ms  DeleteObjects: 9.534062 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 5916 unused Assets to reduce memory usage. Loaded Objects now: 136103.
-Total: 169.373278 ms (FindLiveObjects: 11.980674 ms CreateObjectMapping: 5.583672 ms MarkObjects: 128.336508 ms  DeleteObjects: 23.471833 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 2009 unused Assets to reduce memory usage. Loaded Objects now: 136078.
-Total: 141.991905 ms (FindLiveObjects: 11.118372 ms CreateObjectMapping: 4.257554 ms MarkObjects: 120.737821 ms  DeleteObjects: 5.877582 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 639)
-Unloading 2012 unused Assets to reduce memory usage. Loaded Objects now: 136094.
-Total: 155.754787 ms (FindLiveObjects: 19.756526 ms CreateObjectMapping: 5.337627 ms MarkObjects: 124.001665 ms  DeleteObjects: 6.658137 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 623)
-Unloading 2298 unused Assets to reduce memory usage. Loaded Objects now: 136063.
-Total: 144.697534 ms (FindLiveObjects: 12.686258 ms CreateObjectMapping: 4.263811 ms MarkObjects: 120.263674 ms  DeleteObjects: 7.483078 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 628)
-Unloading 1859 unused Assets to reduce memory usage. Loaded Objects now: 136154.
-Total: 142.912606 ms (FindLiveObjects: 11.901799 ms CreateObjectMapping: 4.094040 ms MarkObjects: 121.480794 ms  DeleteObjects: 5.435349 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 626)
-Unloading 1884 unused Assets to reduce memory usage. Loaded Objects now: 136160.
-Total: 156.195088 ms (FindLiveObjects: 12.958402 ms CreateObjectMapping: 5.790879 ms MarkObjects: 127.559051 ms  DeleteObjects: 9.885943 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 605)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 108.989729 ms
-Unloading 6931 unused Assets to reduce memory usage. Loaded Objects now: 129345.
-Total: 515.185207 ms (FindLiveObjects: 25.961969 ms CreateObjectMapping: 11.534915 ms MarkObjects: 395.774390 ms  DeleteObjects: 81.911394 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7449 unused Assets to reduce memory usage. Loaded Objects now: 26978.
-Total: 268.093921 ms (FindLiveObjects: 4.674636 ms CreateObjectMapping: 4.693213 ms MarkObjects: 210.455208 ms  DeleteObjects: 48.269212 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 4.702857 ms
-Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
-Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
-Loaded saved language code 'RU'
-Restored language code 'RU'
-Unloading 917 unused Assets to reduce memory usage. Loaded Objects now: 72782.
-Total: 325.560409 ms (FindLiveObjects: 10.559264 ms CreateObjectMapping: 8.310110 ms MarkObjects: 295.853696 ms  DeleteObjects: 10.835355 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 2728 unused Assets to reduce memory usage. Loaded Objects now: 134047.
+Total: 70.858232 ms (FindLiveObjects: 6.070720 ms CreateObjectMapping: 3.288487 ms MarkObjects: 56.628022 ms  DeleteObjects: 4.870446 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 5610 unused Assets to reduce memory usage. Loaded Objects now: 67156.
-Total: 302.348423 ms (FindLiveObjects: 10.610058 ms CreateObjectMapping: 7.968470 ms MarkObjects: 244.381721 ms  DeleteObjects: 39.386442 ms)
+Unloading 793 unused Assets to reduce memory usage. Loaded Objects now: 134065.
+Total: 68.642591 ms (FindLiveObjects: 6.120026 ms CreateObjectMapping: 3.143447 ms MarkObjects: 57.486136 ms  DeleteObjects: 1.892576 ms)
 
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 782 unused Assets to reduce memory usage. Loaded Objects now: 134077.
+Total: 69.090800 ms (FindLiveObjects: 6.695013 ms CreateObjectMapping: 2.935624 ms MarkObjects: 57.068940 ms  DeleteObjects: 2.390634 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 780 unused Assets to reduce memory usage. Loaded Objects now: 134091.
+Total: 66.755716 ms (FindLiveObjects: 6.191662 ms CreateObjectMapping: 2.864561 ms MarkObjects: 55.916182 ms  DeleteObjects: 1.782913 ms)
+
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot use 'linearVelocity' on a static body.
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Piece Barrel' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Cannot set the parent of the GameObject 'Piece Barrel (1)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Cannot use 'linearVelocity' on a static body.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 604)
+Unloading 11421 unused Assets to reduce memory usage. Loaded Objects now: 144851.
+Total: 177.494953 ms (FindLiveObjects: 8.986284 ms CreateObjectMapping: 4.730936 ms MarkObjects: 115.076920 ms  DeleteObjects: 48.700227 ms)
+
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
 Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
