@@ -1,131 +1,648 @@
-The selected window backend is x11 
-Mono path[0] = '/home/alex/Downloads/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
-Mono config path = '/home/alex/Downloads/Hollow Knight Silksong/Hollow Knight Silksong_Data/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/Games/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = 'C:/Games/Hollow Knight Silksong/MonoBleedingEdge/etc'
 Input System module state changed to: Initialized.
-Display 0 'eDP-1 16"': 1920x1080 (primary device).
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-Desktop is 1920 x 1080 @ 60 Hz
 Initialize engine version: 6000.0.50f1-uum-100966-branch1 (16f07294548e)
-[Subsystems] Discovering subsystems at path /home/alex/Downloads/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Games/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
 GfxDevice: creating device client; kGfxThreadingModeThreaded
-Renderer: Mesa Intel(R) Graphics (ADL GT2)
-Vendor:   Intel
-Version:  4.6 (Core Profile) Mesa 25.1.3-arch1.3
-GLES:     0
- GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
-_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
-int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
-L_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2
-_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT
-_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_N
-V_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 1036459280
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
+    Vendor:   NVIDIA
+    VRAM:     8024 MB
+    Driver:   32.0.15.9159
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.093 seconds
-- Finished resetting the current domain, in  0.002 seconds
+- Loaded All Assemblies, in  5.608 seconds
+- Finished resetting the current domain, in  0.004 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Default vsync count 1
-requesting resize 1920 x 1080
-resizing window to 1920 x 1080
-Desktop is 1920 x 1080 @ 60 Hz
-UnloadTime: 0.366147 ms
-No online subsystems packaged.
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+Input System polling thread started.
+UnloadTime: 4.920600 ms
+GOG signing in...
+Selected online subsystem GOGGalaxyOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.533344 ms
+UnloadTime: 2.758800 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'RU'
 Restored language code 'RU'
 Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6170.
-Total: 3.845470 ms (FindLiveObjects: 0.284841 ms CreateObjectMapping: 0.090219 ms MarkObjects: 3.441398 ms  DeleteObjects: 0.028494 ms)
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6506.
+Total: 7.697200 ms (FindLiveObjects: 0.565800 ms CreateObjectMapping: 0.229600 ms MarkObjects: 6.853100 ms  DeleteObjects: 0.042000 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 528)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6170.
-Total: 3.103192 ms (FindLiveObjects: 0.235966 ms CreateObjectMapping: 0.175683 ms MarkObjects: 2.673410 ms  DeleteObjects: 0.017786 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6506.
+Total: 4.930100 ms (FindLiveObjects: 0.224900 ms CreateObjectMapping: 0.226200 ms MarkObjects: 4.468800 ms  DeleteObjects: 0.010000 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 582)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
+GOG authorization failed: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 26.244276 ms
-Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
-Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
+UnloadTime: 13.875300 ms
 Loaded saved language code 'RU'
 Restored language code 'RU'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67098.
-Total: 26.751423 ms (FindLiveObjects: 2.437852 ms CreateObjectMapping: 2.172363 ms MarkObjects: 21.850411 ms  DeleteObjects: 0.290152 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67997.
+Total: 35.441000 ms (FindLiveObjects: 6.514100 ms CreateObjectMapping: 4.561900 ms MarkObjects: 23.692800 ms  DeleteObjects: 0.671700 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 562)
-Unloading 275 unused Assets to reduce memory usage. Loaded Objects now: 109356.
-Total: 49.072887 ms (FindLiveObjects: 4.383292 ms CreateObjectMapping: 2.949614 ms MarkObjects: 41.018026 ms  DeleteObjects: 0.721621 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 566)
+Unloading 277 unused Assets to reduce memory usage. Loaded Objects now: 110501.
+Total: 60.429800 ms (FindLiveObjects: 12.710400 ms CreateObjectMapping: 11.026900 ms MarkObjects: 34.412200 ms  DeleteObjects: 2.279800 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 2728 unused Assets to reduce memory usage. Loaded Objects now: 134047.
-Total: 70.858232 ms (FindLiveObjects: 6.070720 ms CreateObjectMapping: 3.288487 ms MarkObjects: 56.628022 ms  DeleteObjects: 4.870446 ms)
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Cannot set the parent of the GameObject 'Corpse Pilgrim Fly(Clone)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Cannot set the parent of the GameObject 'Corpse Pilgrim BellThrower Fly(Clone)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 685)
+UnloadTime: 10.608600 ms
+Unloading 14338 unused Assets to reduce memory usage. Loaded Objects now: 131371.
+Total: 262.929500 ms (FindLiveObjects: 21.352100 ms CreateObjectMapping: 14.738600 ms MarkObjects: 71.124700 ms  DeleteObjects: 155.713200 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 793 unused Assets to reduce memory usage. Loaded Objects now: 134065.
-Total: 68.642591 ms (FindLiveObjects: 6.120026 ms CreateObjectMapping: 3.143447 ms MarkObjects: 57.486136 ms  DeleteObjects: 1.892576 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 637)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 140714.
+Total: 87.046200 ms (FindLiveObjects: 18.953400 ms CreateObjectMapping: 7.062100 ms MarkObjects: 60.431100 ms  DeleteObjects: 0.599000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 782 unused Assets to reduce memory usage. Loaded Objects now: 134077.
-Total: 69.090800 ms (FindLiveObjects: 6.695013 ms CreateObjectMapping: 2.935624 ms MarkObjects: 57.068940 ms  DeleteObjects: 2.390634 ms)
+Started loading clips for Bone Record Bone_East_14
+Started loading clips for Bone Record Greymoor_flooded_corridor
+Started loading clips for Bone Record Understore_Map_Room
+Started loading clips for Bone Record Wisp Top
+Started loading clips for Weaver Totem Bonetown_upper_room
+Started loading clips for Weaver Totem Witch
+Started loading clips for Weaver Totem Slab_Bottom
+Started loading clips for Seal Chit Aspid_01
+Started loading clips for Seal Chit Ward Corpse
+Started loading clips for Seal Chit City Merchant
+Started loading clips for Seal Chit Silk Siphon
+Started loading clips for Weaver Record Weave_08
+Started loading clips for Weaver Record Sprint_Challenge
+Started loading clips for Weaver Record Conductor
+Started loading clips for Ancient Egg Abyss Middle
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Inactive coroutines were cleared: 1
+Freed clips for Bone Record Bone_East_14
+Freed clips for Bone Record Greymoor_flooded_corridor
+Freed clips for Bone Record Understore_Map_Room
+Freed clips for Bone Record Wisp Top
+Freed clips for Weaver Totem Bonetown_upper_room
+Freed clips for Weaver Totem Witch
+Freed clips for Weaver Totem Slab_Bottom
+Freed clips for Seal Chit Aspid_01
+Freed clips for Seal Chit Ward Corpse
+Freed clips for Seal Chit City Merchant
+Freed clips for Seal Chit Silk Siphon
+Freed clips for Weaver Record Weave_08
+Freed clips for Weaver Record Sprint_Challenge
+Freed clips for Weaver Record Conductor
+Freed clips for Ancient Egg Abyss Middle
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Couldn't find transition point "door4", falling back to first available: "door5"
+Couldn't find transition point "door3", falling back to first available: "door5"
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+UnloadTime: 12.836200 ms
+Unloading 7248 unused Assets to reduce memory usage. Loaded Objects now: 131393.
+Total: 161.733200 ms (FindLiveObjects: 22.341000 ms CreateObjectMapping: 13.947800 ms MarkObjects: 64.091900 ms  DeleteObjects: 61.352000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 780 unused Assets to reduce memory usage. Loaded Objects now: 134091.
-Total: 66.755716 ms (FindLiveObjects: 6.191662 ms CreateObjectMapping: 2.864561 ms MarkObjects: 55.916182 ms  DeleteObjects: 1.782913 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 139142.
+Total: 92.048300 ms (FindLiveObjects: 21.047600 ms CreateObjectMapping: 7.397500 ms MarkObjects: 63.216400 ms  DeleteObjects: 0.385900 ms)
 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 688)
+Unloading 3968 unused Assets to reduce memory usage. Loaded Objects now: 168463.
+Total: 145.477200 ms (FindLiveObjects: 25.227200 ms CreateObjectMapping: 13.669300 ms MarkObjects: 67.294500 ms  DeleteObjects: 39.285200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+UnloadTime: 9.210600 ms
+Unloading 6600 unused Assets to reduce memory usage. Loaded Objects now: 131495.
+Total: 158.851300 ms (FindLiveObjects: 17.916500 ms CreateObjectMapping: 10.821600 ms MarkObjects: 62.918100 ms  DeleteObjects: 67.194200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 665)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 139253.
+Total: 86.002700 ms (FindLiveObjects: 20.173800 ms CreateObjectMapping: 7.545000 ms MarkObjects: 57.721000 ms  DeleteObjects: 0.562100 ms)
+
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer'.
+Cannot set the parent of the GameObject 'Water Point L' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Water Point R' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Dive Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
+Cannot set the parent of the GameObject 'Start Point' while activating or deactivating the parent GameObject 'Caravan Troupe Flea Swimmer (1)'.
 The referenced script (Unknown) on this Behaviour is missing!
 Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
 Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
 The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
-The referenced script (tk2dSpriteAnimatorDebug) on this Behaviour is missing!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-ceb42d51c62f5a2363e3a1def0c3288b/CAB-ceb42d51c62f5a2363e3a1def0c3288b.resource
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'censer ball' is inactive!
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Cannot use 'linearVelocity' on a static body.
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 656)
+UnloadTime: 10.523600 ms
+Unloading 11678 unused Assets to reduce memory usage. Loaded Objects now: 131750.
+Total: 255.856700 ms (FindLiveObjects: 20.319700 ms CreateObjectMapping: 11.386500 ms MarkObjects: 68.420500 ms  DeleteObjects: 155.728500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 140209.
+Total: 87.644200 ms (FindLiveObjects: 16.852900 ms CreateObjectMapping: 8.838400 ms MarkObjects: 60.842800 ms  DeleteObjects: 1.109200 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 667)
+Unloading 6805 unused Assets to reduce memory usage. Loaded Objects now: 140094.
+Total: 221.840000 ms (FindLiveObjects: 20.204100 ms CreateObjectMapping: 9.896100 ms MarkObjects: 60.996300 ms  DeleteObjects: 130.741800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 656)
+UnloadTime: 10.173200 ms
+Unloading 4367 unused Assets to reduce memory usage. Loaded Objects now: 131765.
+Total: 128.186000 ms (FindLiveObjects: 17.831600 ms CreateObjectMapping: 11.885400 ms MarkObjects: 68.888400 ms  DeleteObjects: 29.579900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 139342.
+Total: 89.137100 ms (FindLiveObjects: 18.141500 ms CreateObjectMapping: 6.844500 ms MarkObjects: 63.311400 ms  DeleteObjects: 0.839100 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 5323 unused Assets to reduce memory usage. Loaded Objects now: 153757.
+Total: 211.085800 ms (FindLiveObjects: 21.435900 ms CreateObjectMapping: 9.258100 ms MarkObjects: 68.503100 ms  DeleteObjects: 111.887200 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 1979 unused Assets to reduce memory usage. Loaded Objects now: 153506.
+Total: 131.995800 ms (FindLiveObjects: 20.061600 ms CreateObjectMapping: 11.197700 ms MarkObjects: 66.240100 ms  DeleteObjects: 34.494600 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 1979 unused Assets to reduce memory usage. Loaded Objects now: 153778.
+Total: 125.309500 ms (FindLiveObjects: 22.344800 ms CreateObjectMapping: 9.282300 ms MarkObjects: 61.500400 ms  DeleteObjects: 32.181400 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 1992 unused Assets to reduce memory usage. Loaded Objects now: 153526.
+Total: 125.861900 ms (FindLiveObjects: 20.586700 ms CreateObjectMapping: 8.783200 ms MarkObjects: 62.770100 ms  DeleteObjects: 33.721300 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 2004 unused Assets to reduce memory usage. Loaded Objects now: 153790.
+Total: 122.324800 ms (FindLiveObjects: 19.748700 ms CreateObjectMapping: 9.231600 ms MarkObjects: 59.339800 ms  DeleteObjects: 33.985200 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 663)
+Unloading 1979 unused Assets to reduce memory usage. Loaded Objects now: 153536.
+Total: 126.076600 ms (FindLiveObjects: 20.344800 ms CreateObjectMapping: 9.527100 ms MarkObjects: 61.848300 ms  DeleteObjects: 34.355600 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Roachkeeper Chef Tiny (2)).
+Cannot use 'linearVelocity' on a static body.
+Cannot use 'linearVelocity' on a static body.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Using fallback 1 to find tilemap. Scene Bellshrine_02 requires manual fixing.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+gameObject1 is null!
+Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 9893 unused Assets to reduce memory usage. Loaded Objects now: 134200.
+Total: 281.408900 ms (FindLiveObjects: 19.744100 ms CreateObjectMapping: 8.640000 ms MarkObjects: 63.234400 ms  DeleteObjects: 189.788800 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 4547 unused Assets to reduce memory usage. Loaded Objects now: 134231.
+Total: 146.206700 ms (FindLiveObjects: 15.603600 ms CreateObjectMapping: 7.731000 ms MarkObjects: 64.716600 ms  DeleteObjects: 58.155000 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 4536 unused Assets to reduce memory usage. Loaded Objects now: 134306.
+Total: 156.173500 ms (FindLiveObjects: 19.432400 ms CreateObjectMapping: 7.254200 ms MarkObjects: 70.157300 ms  DeleteObjects: 59.328500 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 4529 unused Assets to reduce memory usage. Loaded Objects now: 134388.
+Total: 155.764100 ms (FindLiveObjects: 18.813400 ms CreateObjectMapping: 7.559800 ms MarkObjects: 73.208900 ms  DeleteObjects: 56.181200 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 4549 unused Assets to reduce memory usage. Loaded Objects now: 134419.
+Total: 149.320100 ms (FindLiveObjects: 16.229000 ms CreateObjectMapping: 8.468300 ms MarkObjects: 67.540200 ms  DeleteObjects: 57.081900 ms)
+
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 4549 unused Assets to reduce memory usage. Loaded Objects now: 134479.
+Total: 149.543300 ms (FindLiveObjects: 16.616700 ms CreateObjectMapping: 8.153600 ms MarkObjects: 65.702700 ms  DeleteObjects: 59.069200 ms)
+
+gameObject1 is null!
+gameObject1 is null!
+HutongGames.PlayMaker.StartHeroVibrationRegion in bone_plat_02_crumble (1) (UnityEngine.GameObject) is missing Hero Vibration Region object
+gameObject1 is null!
+Coroutine couldn't be started because the the game object 'Seamstress Umbrella Platform' is inactive!
+gameObject1 is null!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 681)
+UnloadTime: 20.254600 ms
+Unloading 8514 unused Assets to reduce memory usage. Loaded Objects now: 134098.
+Total: 197.594500 ms (FindLiveObjects: 20.903100 ms CreateObjectMapping: 12.704700 ms MarkObjects: 80.070400 ms  DeleteObjects: 83.914900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 670)
+Unloading 245 unused Assets to reduce memory usage. Loaded Objects now: 142365.
+Total: 93.085400 ms (FindLiveObjects: 17.542400 ms CreateObjectMapping: 9.045500 ms MarkObjects: 64.208400 ms  DeleteObjects: 2.288300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
+UnloadTime: 12.403600 ms
+Unloading 6453 unused Assets to reduce memory usage. Loaded Objects now: 132664.
+Total: 151.510700 ms (FindLiveObjects: 20.201200 ms CreateObjectMapping: 12.590900 ms MarkObjects: 63.601200 ms  DeleteObjects: 55.116600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 657)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 147778.
+Total: 86.741800 ms (FindLiveObjects: 16.820500 ms CreateObjectMapping: 8.726500 ms MarkObjects: 60.725400 ms  DeleteObjects: 0.468600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+UnloadTime: 19.737300 ms
+Unloading 4764 unused Assets to reduce memory usage. Loaded Objects now: 132807.
+Total: 119.092600 ms (FindLiveObjects: 17.288000 ms CreateObjectMapping: 12.028200 ms MarkObjects: 67.449600 ms  DeleteObjects: 22.326000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 657)
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 142218.
+Total: 90.420000 ms (FindLiveObjects: 18.610000 ms CreateObjectMapping: 7.356200 ms MarkObjects: 62.796300 ms  DeleteObjects: 1.656900 ms)
+
+Can not play a disabled audio source
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Using fallback 1 to find tilemap. Scene Belltown_Shrine requires manual fixing.
+Using fallback 1 to find tilemap. Scene Bellshrine_03 requires manual fixing.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
 Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
 Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
 The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
-Can not play a disabled audio source
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Can not play a disabled audio source
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot use 'linearVelocity' on a static body.
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Piece Barrel' while activating or deactivating the parent GameObject 'Corpse Catcher'.
-Cannot set the parent of the GameObject 'Piece Barrel (1)' while activating or deactivating the parent GameObject 'Corpse Catcher'.
-Cannot use 'linearVelocity' on a static body.
-Unloading 2 Unused Serialized files (Serialized files now loaded: 604)
-Unloading 11421 unused Assets to reduce memory usage. Loaded Objects now: 144851.
-Total: 177.494953 ms (FindLiveObjects: 8.986284 ms CreateObjectMapping: 4.730936 ms MarkObjects: 115.076920 ms  DeleteObjects: 48.700227 ms)
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-ceb42d51c62f5a2363e3a1def0c3288b/CAB-ceb42d51c62f5a2363e3a1def0c3288b.resource
+Unloading 1 Unused Serialized files (Serialized files now loaded: 720)
+Unloading 13310 unused Assets to reduce memory usage. Loaded Objects now: 149627.
+Total: 307.335500 ms (FindLiveObjects: 26.705000 ms CreateObjectMapping: 13.672500 ms MarkObjects: 58.952500 ms  DeleteObjects: 208.004100 ms)
 
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
-Delayed playback via the optional argument of Play is deprecated. Use PlayDelayed instead!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
+UnloadTime: 14.705800 ms
+Unloading 6835 unused Assets to reduce memory usage. Loaded Objects now: 132955.
+Total: 154.444700 ms (FindLiveObjects: 18.853400 ms CreateObjectMapping: 9.841500 ms MarkObjects: 69.101100 ms  DeleteObjects: 56.648000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 679)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 142422.
+Total: 76.304700 ms (FindLiveObjects: 15.768600 ms CreateObjectMapping: 7.517600 ms MarkObjects: 52.321100 ms  DeleteObjects: 0.696900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 678)
+UnloadTime: 15.060500 ms
+Unloading 7199 unused Assets to reduce memory usage. Loaded Objects now: 133048.
+Total: 149.736200 ms (FindLiveObjects: 20.191800 ms CreateObjectMapping: 9.394600 ms MarkObjects: 73.018100 ms  DeleteObjects: 47.130500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 142598.
+Total: 91.032300 ms (FindLiveObjects: 16.765000 ms CreateObjectMapping: 8.140700 ms MarkObjects: 65.356400 ms  DeleteObjects: 0.769600 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 691)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 20.189100 ms
+Unloading 13876 unused Assets to reduce memory usage. Loaded Objects now: 133521.
+Total: 292.662700 ms (FindLiveObjects: 15.733900 ms CreateObjectMapping: 8.847400 ms MarkObjects: 68.869400 ms  DeleteObjects: 199.192400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 7291 unused Assets to reduce memory usage. Loaded Objects now: 27565.
+Total: 101.386200 ms (FindLiveObjects: 3.315300 ms CreateObjectMapping: 2.127600 ms MarkObjects: 69.708500 ms  DeleteObjects: 26.234300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
+UnloadTime: 1.324500 ms
+Loaded saved language code 'RU'
+Restored language code 'RU'
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 74471.
+Total: 75.664900 ms (FindLiveObjects: 7.888200 ms CreateObjectMapping: 3.937600 ms MarkObjects: 63.088400 ms  DeleteObjects: 0.749900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74472.
+Total: 80.250000 ms (FindLiveObjects: 7.723900 ms CreateObjectMapping: 4.108500 ms MarkObjects: 68.233100 ms  DeleteObjects: 0.183700 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 673)
+Unloading 124 unused Assets to reduce memory usage. Loaded Objects now: 121584.
+Total: 80.597400 ms (FindLiveObjects: 12.005600 ms CreateObjectMapping: 6.529500 ms MarkObjects: 60.385800 ms  DeleteObjects: 1.675900 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 684)
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
+UnloadTime: 16.455500 ms
+Unloading 10127 unused Assets to reduce memory usage. Loaded Objects now: 132904.
+Total: 234.974800 ms (FindLiveObjects: 14.572000 ms CreateObjectMapping: 9.196500 ms MarkObjects: 67.055600 ms  DeleteObjects: 144.149000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 7280 unused Assets to reduce memory usage. Loaded Objects now: 27795.
+Total: 93.432200 ms (FindLiveObjects: 3.535100 ms CreateObjectMapping: 2.246200 ms MarkObjects: 63.797600 ms  DeleteObjects: 23.852600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
+UnloadTime: 0.809500 ms
+Loaded saved language code 'RU'
+Restored language code 'RU'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 74705.
+Total: 72.230800 ms (FindLiveObjects: 7.780100 ms CreateObjectMapping: 3.994900 ms MarkObjects: 59.835600 ms  DeleteObjects: 0.619600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74706.
+Total: 80.577100 ms (FindLiveObjects: 9.066300 ms CreateObjectMapping: 6.150900 ms MarkObjects: 65.096200 ms  DeleteObjects: 0.263000 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 673)
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 121827.
+Total: 76.301800 ms (FindLiveObjects: 12.247400 ms CreateObjectMapping: 6.845400 ms MarkObjects: 55.643500 ms  DeleteObjects: 1.564700 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Cannot use 'linearVelocity' on a static body.
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 703)
+UnloadTime: 34.090800 ms
+Unloading 15848 unused Assets to reduce memory usage. Loaded Objects now: 134199.
+Total: 392.239500 ms (FindLiveObjects: 17.182500 ms CreateObjectMapping: 8.991600 ms MarkObjects: 82.318400 ms  DeleteObjects: 283.745800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 600)
+Unloading 7301 unused Assets to reduce memory usage. Loaded Objects now: 28201.
+Total: 78.161700 ms (FindLiveObjects: 3.583900 ms CreateObjectMapping: 2.225100 ms MarkObjects: 47.138800 ms  DeleteObjects: 25.213400 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
+UnloadTime: 0.736500 ms
+Loaded saved language code 'RU'
+Restored language code 'RU'
+Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 75068.
+Total: 80.920700 ms (FindLiveObjects: 7.530800 ms CreateObjectMapping: 3.941600 ms MarkObjects: 67.594800 ms  DeleteObjects: 1.852800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 646)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75069.
+Total: 77.699900 ms (FindLiveObjects: 9.036400 ms CreateObjectMapping: 4.101900 ms MarkObjects: 64.397700 ms  DeleteObjects: 0.163200 ms)
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
+Input System polling thread stopped.
 Input System polling thread exited.
 Input System module state changed to: Shutdown.
