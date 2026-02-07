@@ -1,67 +1,92 @@
-Mono path[0] = 'C:/Games/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
-Mono config path = 'C:/Games/Hollow Knight Silksong/MonoBleedingEdge/etc'
+The selected window backend is x11 
+Mono path[0] = '/home/alex/Downloads/Hollow Knight Silksong/Hollow Knight Silksong_Data/Managed'
+Mono config path = '/home/alex/Downloads/Hollow Knight Silksong/Hollow Knight Silksong_Data/MonoBleedingEdge/etc'
 Input System module state changed to: Initialized.
+Display 0 'eDP-1 16"': 1920x1080 (primary device).
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
+Desktop is 1920 x 1080 @ 60 Hz
 Initialize engine version: 6000.0.50f1-uum-100966-branch1 (16f07294548e)
-[Subsystems] Discovering subsystems at path C:/Games/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/alex/Downloads/Hollow Knight Silksong/Hollow Knight Silksong_Data/UnitySubsystems
 GfxDevice: creating device client; kGfxThreadingModeThreaded
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
-    Vendor:   NVIDIA
-    VRAM:     8024 MB
-    Driver:   32.0.15.9159
+Renderer: Mesa Intel(R) Graphics (ADL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 25.1.3-arch1.3
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2
+_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT
+_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_N
+V_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 797278192
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  6.374 seconds
-- Finished resetting the current domain, in  0.005 seconds
+- Loaded All Assemblies, in  0.096 seconds
+- Finished resetting the current domain, in  0.003 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-<RI> Initializing input.
-Using Windows.Gaming.Input
-<RI> Input initialized.
-Input System polling thread started.
-<RI> Initialized touch support.
-UnloadTime: 1.172600 ms
-GOG signing in...
-Selected online subsystem GOGGalaxyOnlineSubsystem
+Default vsync count 1
+requesting resize 1920 x 1080
+resizing window to 1920 x 1080
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 0.631132 ms
+No online subsystems packaged.
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 2.455300 ms
+UnloadTime: 4.099255 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'RU'
 Restored language code 'RU'
 Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6506.
-Total: 7.092200 ms (FindLiveObjects: 0.703700 ms CreateObjectMapping: 0.308800 ms MarkObjects: 6.030000 ms  DeleteObjects: 0.042800 ms)
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6170.
+Total: 6.127055 ms (FindLiveObjects: 0.278112 ms CreateObjectMapping: 0.211361 ms MarkObjects: 5.593048 ms  DeleteObjects: 0.044211 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13738.
-Total: 11.787400 ms (FindLiveObjects: 1.373400 ms CreateObjectMapping: 0.958400 ms MarkObjects: 9.401000 ms  DeleteObjects: 0.054100 ms)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13402.
+Total: 21.615231 ms (FindLiveObjects: 1.740787 ms CreateObjectMapping: 1.847110 ms MarkObjects: 17.844460 ms  DeleteObjects: 0.181440 ms)
 
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
-GOG authorization failed: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
+The key you just pressed is not recognized by SDL. To help get this fixed, please report this to the SDL forums/mailing list <https://discourse.libsdl.org/> X11 KeyCode 209 (201), X11 KeySym 0x1008FF31 (XF86AudioPause).
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 11.765300 ms
+UnloadTime: 28.808224 ms
+Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
+Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
 Loaded saved language code 'RU'
 Restored language code 'RU'
-Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67997.
-Total: 35.225400 ms (FindLiveObjects: 6.731200 ms CreateObjectMapping: 4.199900 ms MarkObjects: 23.811100 ms  DeleteObjects: 0.482600 ms)
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67098.
+Total: 54.059963 ms (FindLiveObjects: 3.680273 ms CreateObjectMapping: 3.153301 ms MarkObjects: 46.812426 ms  DeleteObjects: 0.412781 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 572)
-Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 112516.
-Total: 73.079600 ms (FindLiveObjects: 14.230800 ms CreateObjectMapping: 15.655200 ms MarkObjects: 40.835500 ms  DeleteObjects: 2.357400 ms)
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 576)
+Unloading 293 unused Assets to reduce memory usage. Loaded Objects now: 117932.
+Total: 75.275430 ms (FindLiveObjects: 7.542076 ms CreateObjectMapping: 4.454746 ms MarkObjects: 62.005635 ms  DeleteObjects: 1.272416 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
@@ -69,987 +94,260 @@ Converting Vertex Colors from Color32 to Color.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
-Unloading 7564 unused Assets to reduce memory usage. Loaded Objects now: 140161.
-Total: 181.800500 ms (FindLiveObjects: 19.204200 ms CreateObjectMapping: 12.002600 ms MarkObjects: 67.967600 ms  DeleteObjects: 82.625300 ms)
+Unloading 4949 unused Assets to reduce memory usage. Loaded Objects now: 145677.
+Total: 135.563816 ms (FindLiveObjects: 12.248512 ms CreateObjectMapping: 5.570320 ms MarkObjects: 105.436134 ms  DeleteObjects: 12.308205 ms)
 
-Coroutine couldn't be started because the the game object 'Attack Damager' is inactive!
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
-Unloading 2682 unused Assets to reduce memory usage. Loaded Objects now: 140270.
-Total: 124.220400 ms (FindLiveObjects: 22.454100 ms CreateObjectMapping: 11.111000 ms MarkObjects: 63.634100 ms  DeleteObjects: 27.019600 ms)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 3670 unused Assets to reduce memory usage. Loaded Objects now: 146333.
+Total: 131.808711 ms (FindLiveObjects: 11.451593 ms CreateObjectMapping: 4.638036 ms MarkObjects: 105.204621 ms  DeleteObjects: 10.513862 ms)
 
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Coroutine couldn't be started because the the game object 'Slashes Damager' is inactive!
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Coroutine couldn't be started because the the game object 'terrain collider' is inactive!
-UnloadTime: 38.659500 ms
-Unloading 3785 unused Assets to reduce memory usage. Loaded Objects now: 135605.
-Total: 130.517500 ms (FindLiveObjects: 20.255900 ms CreateObjectMapping: 12.130100 ms MarkObjects: 65.665300 ms  DeleteObjects: 32.464400 ms)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 3672 unused Assets to reduce memory usage. Loaded Objects now: 145727.
+Total: 156.868471 ms (FindLiveObjects: 12.028483 ms CreateObjectMapping: 5.617163 ms MarkObjects: 128.314188 ms  DeleteObjects: 10.908033 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7016 unused Assets to reduce memory usage. Loaded Objects now: 27031.
-Total: 88.196200 ms (FindLiveObjects: 3.974400 ms CreateObjectMapping: 2.542100 ms MarkObjects: 55.702400 ms  DeleteObjects: 25.976600 ms)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 3670 unused Assets to reduce memory usage. Loaded Objects now: 146435.
+Total: 160.200350 ms (FindLiveObjects: 12.000966 ms CreateObjectMapping: 4.910149 ms MarkObjects: 130.604246 ms  DeleteObjects: 12.684149 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 1.781400 ms
-Loaded saved language code 'RU'
-Restored language code 'RU'
-Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 73613.
-Total: 93.919300 ms (FindLiveObjects: 9.773000 ms CreateObjectMapping: 6.352600 ms MarkObjects: 76.427500 ms  DeleteObjects: 1.365500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73614.
-Total: 95.023700 ms (FindLiveObjects: 9.652900 ms CreateObjectMapping: 6.618500 ms MarkObjects: 78.413100 ms  DeleteObjects: 0.338400 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 566)
-Unloading 299 unused Assets to reduce memory usage. Loaded Objects now: 115151.
-Total: 90.882200 ms (FindLiveObjects: 14.366300 ms CreateObjectMapping: 9.991500 ms MarkObjects: 63.796700 ms  DeleteObjects: 2.727100 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Started loading clips for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Freed clips for Psalm Cylinder Hang
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
 Cannot use 'linearVelocity' on a static body.
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Freed clips for Psalm Cylinder Hang
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Couldn't get collider for recoil, trying children...
-Couldn't get collider for recoil, trying children...
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Cannot use 'linearVelocity' on a static body.
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
-Unloading 6353 unused Assets to reduce memory usage. Loaded Objects now: 148927.
-Total: 219.356700 ms (FindLiveObjects: 23.833200 ms CreateObjectMapping: 12.111900 ms MarkObjects: 70.708100 ms  DeleteObjects: 112.702200 ms)
+Can not play a disabled audio source
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 7935 unused Assets to reduce memory usage. Loaded Objects now: 146974.
+Total: 175.119688 ms (FindLiveObjects: 13.274599 ms CreateObjectMapping: 5.600244 ms MarkObjects: 125.634824 ms  DeleteObjects: 30.609125 ms)
 
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Freed clips for Psalm Cylinder Hang
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Couldn't get collider for recoil, trying children...
-Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 40.547700 ms
-Unloading 8361 unused Assets to reduce memory usage. Loaded Objects now: 136403.
-Total: 199.033400 ms (FindLiveObjects: 21.109300 ms CreateObjectMapping: 14.100000 ms MarkObjects: 70.396600 ms  DeleteObjects: 93.425900 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 6908 unused Assets to reduce memory usage. Loaded Objects now: 27503.
-Total: 89.934900 ms (FindLiveObjects: 3.830000 ms CreateObjectMapping: 2.596000 ms MarkObjects: 57.955200 ms  DeleteObjects: 25.553000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.692900 ms
-Loaded saved language code 'RU'
-Restored language code 'RU'
-Unloading 215 unused Assets to reduce memory usage. Loaded Objects now: 73949.
-Total: 94.693000 ms (FindLiveObjects: 9.955900 ms CreateObjectMapping: 4.740000 ms MarkObjects: 78.373200 ms  DeleteObjects: 1.623100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73950.
-Total: 88.678200 ms (FindLiveObjects: 9.086200 ms CreateObjectMapping: 7.503600 ms MarkObjects: 71.839100 ms  DeleteObjects: 0.248600 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Unloading 1 Unused Serialized files (Serialized files now loaded: 574)
-Unloading 289 unused Assets to reduce memory usage. Loaded Objects now: 118043.
-Total: 93.998500 ms (FindLiveObjects: 20.180800 ms CreateObjectMapping: 11.837700 ms MarkObjects: 59.291800 ms  DeleteObjects: 2.687600 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Freed clips for Psalm Cylinder Hang
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Animator.GotoState: State could not be found
-Invalid Layer Index '-1'
-Cannot use 'linearVelocity' on a static body.
-Cannot use 'linearVelocity' on a static body.
-Started loading clips for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Hang
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Freed clips for Psalm Cylinder Hang
-Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixing.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Couldn't find transition point "door1", falling back to first available: "left2"
-Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
-UnloadTime: 22.552500 ms
-Unloading 11381 unused Assets to reduce memory usage. Loaded Objects now: 136511.
-Total: 246.590000 ms (FindLiveObjects: 22.720900 ms CreateObjectMapping: 14.436300 ms MarkObjects: 77.187600 ms  DeleteObjects: 132.244000 ms)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 648)
+UnloadTime: 14.765435 ms
+Unloading 12512 unused Assets to reduce memory usage. Loaded Objects now: 135050.
+Total: 176.133728 ms (FindLiveObjects: 13.029740 ms CreateObjectMapping: 5.787653 ms MarkObjects: 121.932494 ms  DeleteObjects: 35.383242 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 617)
-Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 145960.
-Total: 99.369500 ms (FindLiveObjects: 20.229400 ms CreateObjectMapping: 11.171500 ms MarkObjects: 66.537300 ms  DeleteObjects: 1.430700 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 611)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 144052.
+Total: 152.620028 ms (FindLiveObjects: 12.321389 ms CreateObjectMapping: 5.786213 ms MarkObjects: 133.758759 ms  DeleteObjects: 0.752896 ms)
 
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Error Loading Action: Idle : HutongGames.PlayMaker.Actions.CheckHeroPerformanceRegion : MinReactDelay
-System.ArgumentOutOfRangeException: Non-negative number required.
-Parameter name: count
-  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : waitMin
-System.ArgumentOutOfRangeException: Non-negative number required.
-Parameter name: count
-  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : waitMax
-System.ArgumentOutOfRangeException: Non-negative number required.
-Parameter name: count
-  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : speedMax
-System.ArgumentOutOfRangeException: Non-negative number required.
-Parameter name: count
-  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : accelerationMin
-System.ArgumentOutOfRangeException: Non-negative number required.
-Parameter name: count
-  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : roamingRangeX
-System.ArgumentOutOfRangeException: Non-negative number required.
-Parameter name: count
-  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
-  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
-Cannot use 'linearVelocity' on a static body.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
-Unloading 5076 unused Assets to reduce memory usage. Loaded Objects now: 147942.
-Total: 162.395300 ms (FindLiveObjects: 22.219000 ms CreateObjectMapping: 12.638500 ms MarkObjects: 68.601400 ms  DeleteObjects: 58.934800 ms)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
+Unloading 3999 unused Assets to reduce memory usage. Loaded Objects now: 144361.
+Total: 167.732425 ms (FindLiveObjects: 13.808484 ms CreateObjectMapping: 5.540921 ms MarkObjects: 136.235977 ms  DeleteObjects: 12.146246 ms)
 
-Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
-UnloadTime: 16.857800 ms
-Unloading 7629 unused Assets to reduce memory usage. Loaded Objects now: 136117.
-Total: 160.224500 ms (FindLiveObjects: 21.292500 ms CreateObjectMapping: 13.235000 ms MarkObjects: 72.644400 ms  DeleteObjects: 53.051200 ms)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
+Unloading 2837 unused Assets to reduce memory usage. Loaded Objects now: 144399.
+Total: 139.261320 ms (FindLiveObjects: 10.936522 ms CreateObjectMapping: 4.669917 ms MarkObjects: 114.769618 ms  DeleteObjects: 8.884703 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
-Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 143772.
-Total: 108.826900 ms (FindLiveObjects: 24.560300 ms CreateObjectMapping: 13.260800 ms MarkObjects: 68.277600 ms  DeleteObjects: 2.727500 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 634)
+Unloading 2835 unused Assets to reduce memory usage. Loaded Objects now: 144524.
+Total: 164.033943 ms (FindLiveObjects: 13.408650 ms CreateObjectMapping: 5.520934 ms MarkObjects: 136.613493 ms  DeleteObjects: 8.490233 ms)
 
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-74414972cb415d866e51ce80a0999ed7/CAB-74414972cb415d866e51ce80a0999ed7.resource
-Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Can not play a disabled audio source
-Can not play a disabled audio source
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-UnloadTime: 16.767400 ms
-Unloading 10986 unused Assets to reduce memory usage. Loaded Objects now: 136826.
-Total: 266.488600 ms (FindLiveObjects: 25.977500 ms CreateObjectMapping: 14.191600 ms MarkObjects: 75.850400 ms  DeleteObjects: 150.448300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 149490.
-Total: 98.844700 ms (FindLiveObjects: 20.449300 ms CreateObjectMapping: 12.218100 ms MarkObjects: 64.930900 ms  DeleteObjects: 1.245700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 1633 unused Assets to reduce memory usage. Loaded Objects now: 149397.
-Total: 114.536900 ms (FindLiveObjects: 20.675900 ms CreateObjectMapping: 11.330800 ms MarkObjects: 60.684700 ms  DeleteObjects: 21.844900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 1616 unused Assets to reduce memory usage. Loaded Objects now: 149470.
-Total: 117.347100 ms (FindLiveObjects: 22.860200 ms CreateObjectMapping: 11.102900 ms MarkObjects: 64.080000 ms  DeleteObjects: 19.303300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 1625 unused Assets to reduce memory usage. Loaded Objects now: 149570.
-Total: 123.123000 ms (FindLiveObjects: 20.175600 ms CreateObjectMapping: 12.764300 ms MarkObjects: 68.478000 ms  DeleteObjects: 21.704500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 1614 unused Assets to reduce memory usage. Loaded Objects now: 149665.
-Total: 114.458100 ms (FindLiveObjects: 19.769600 ms CreateObjectMapping: 11.153300 ms MarkObjects: 62.166300 ms  DeleteObjects: 21.354100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 1614 unused Assets to reduce memory usage. Loaded Objects now: 149628.
-Total: 118.073000 ms (FindLiveObjects: 20.462000 ms CreateObjectMapping: 11.591300 ms MarkObjects: 66.141600 ms  DeleteObjects: 19.877600 ms)
-
-Cannot use 'linearVelocity' on a static body.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
-Scene Manager missing from scene Bone_East_08
-UnloadTime: 25.981400 ms
-Unloading 5368 unused Assets to reduce memory usage. Loaded Objects now: 137609.
-Total: 142.649700 ms (FindLiveObjects: 20.606800 ms CreateObjectMapping: 14.218400 ms MarkObjects: 65.809400 ms  DeleteObjects: 42.014400 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 574)
-Unloading 7696 unused Assets to reduce memory usage. Loaded Objects now: 28032.
-Total: 101.260300 ms (FindLiveObjects: 4.431300 ms CreateObjectMapping: 2.989400 ms MarkObjects: 61.926300 ms  DeleteObjects: 31.912700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
-UnloadTime: 0.737300 ms
-Loaded saved language code 'RU'
-Restored language code 'RU'
-Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 74617.
-Total: 92.162200 ms (FindLiveObjects: 9.387000 ms CreateObjectMapping: 6.485300 ms MarkObjects: 75.588300 ms  DeleteObjects: 0.701000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74618.
-Total: 83.660000 ms (FindLiveObjects: 9.228100 ms CreateObjectMapping: 6.371000 ms MarkObjects: 67.826200 ms  DeleteObjects: 0.234000 ms)
-
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 118150.
-Total: 76.649900 ms (FindLiveObjects: 13.513900 ms CreateObjectMapping: 10.248400 ms MarkObjects: 51.186800 ms  DeleteObjects: 1.700200 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
-UnloadTime: 18.035700 ms
-Unloading 5399 unused Assets to reduce memory usage. Loaded Objects now: 136344.
-Total: 133.457900 ms (FindLiveObjects: 19.385000 ms CreateObjectMapping: 13.843900 ms MarkObjects: 70.117900 ms  DeleteObjects: 30.110500 ms)
+Unloading 3687 unused Assets to reduce memory usage. Loaded Objects now: 144544.
+Total: 141.793170 ms (FindLiveObjects: 11.594450 ms CreateObjectMapping: 5.162502 ms MarkObjects: 114.601412 ms  DeleteObjects: 10.434100 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 647)
-Unloading 162 unused Assets to reduce memory usage. Loaded Objects now: 145457.
-Total: 101.149100 ms (FindLiveObjects: 20.594900 ms CreateObjectMapping: 12.191600 ms MarkObjects: 67.150900 ms  DeleteObjects: 1.211100 ms)
-
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0/1 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+requesting resize 1600 x 900
+requesting fullscreen 1600 x 900 at 60/1 Hz
+Setting up downscaled viewport at 1600 x 900
+Desktop is 1920 x 1080 @ 60 Hz
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0/1 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+requesting resize 1600 x 900
+requesting fullscreen 1600 x 900 at 60/1 Hz
+Setting up downscaled viewport at 1600 x 900
+Desktop is 1920 x 1080 @ 60 Hz
+MenuButton missing flashEffect!
+MenuButton missing flashEffect!
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+PD Variable SavedFlea_Bellway_Aqueduct does not exist! This is fine if we're just calling this to display quest updated after bool set.
+PD Variable SavedFlea_Bellway_Aqueduct does not exist! This is fine if we're just calling this to display quest updated after bool set.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Unloading 1 Unused Serialized files (Serialized files now loaded: 695)
-UnloadTime: 14.841200 ms
-Unloading 6450 unused Assets to reduce memory usage. Loaded Objects now: 136166.
-Total: 160.018700 ms (FindLiveObjects: 22.484500 ms CreateObjectMapping: 12.924700 ms MarkObjects: 68.969100 ms  DeleteObjects: 55.639000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 144553.
-Total: 97.161500 ms (FindLiveObjects: 18.795100 ms CreateObjectMapping: 11.908700 ms MarkObjects: 66.108200 ms  DeleteObjects: 0.348800 ms)
-
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
-Scene Manager missing from scene Bellway_08
-UnloadTime: 10.543500 ms
-Unloading 6939 unused Assets to reduce memory usage. Loaded Objects now: 136633.
-Total: 137.856000 ms (FindLiveObjects: 21.027700 ms CreateObjectMapping: 13.390700 ms MarkObjects: 65.855500 ms  DeleteObjects: 37.580800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 671)
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 146193.
-Total: 94.935900 ms (FindLiveObjects: 21.246400 ms CreateObjectMapping: 10.217100 ms MarkObjects: 63.058500 ms  DeleteObjects: 0.413200 ms)
-
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Can not play a disabled audio source
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
-Unloading 4485 unused Assets to reduce memory usage. Loaded Objects now: 158136.
-Total: 169.311200 ms (FindLiveObjects: 28.289000 ms CreateObjectMapping: 13.738700 ms MarkObjects: 72.397600 ms  DeleteObjects: 54.884800 ms)
-
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
-Unloading 393 unused Assets to reduce memory usage. Loaded Objects now: 159395.
-Total: 118.746400 ms (FindLiveObjects: 22.379100 ms CreateObjectMapping: 10.716600 ms MarkObjects: 71.597800 ms  DeleteObjects: 14.051400 ms)
-
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
-Unloading 380 unused Assets to reduce memory usage. Loaded Objects now: 159817.
-Total: 118.959800 ms (FindLiveObjects: 22.903800 ms CreateObjectMapping: 12.030000 ms MarkObjects: 71.232200 ms  DeleteObjects: 12.792900 ms)
-
-Can not play a disabled audio source
-Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
-Unloading 380 unused Assets to reduce memory usage. Loaded Objects now: 159804.
-Total: 122.326200 ms (FindLiveObjects: 23.111900 ms CreateObjectMapping: 12.824100 ms MarkObjects: 73.042200 ms  DeleteObjects: 13.347100 ms)
-
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Cannot use 'linearVelocity' on a static body.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Couldn't find transition point "door1", falling back to first available: "bot1"
-Can not play a disabled audio source
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Unloading 1 Unused Serialized files (Serialized files now loaded: 688)
-UnloadTime: 14.687900 ms
-Unloading 8875 unused Assets to reduce memory usage. Loaded Objects now: 142882.
-Total: 205.644900 ms (FindLiveObjects: 23.398500 ms CreateObjectMapping: 15.328000 ms MarkObjects: 81.644700 ms  DeleteObjects: 85.272200 ms)
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Cannot use 'linearVelocity' on a static body.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 631)
+UnloadTime: 12.446325 ms
+Unloading 7769 unused Assets to reduce memory usage. Loaded Objects now: 135667.
+Total: 121.767017 ms (FindLiveObjects: 9.185498 ms CreateObjectMapping: 4.513219 ms MarkObjects: 88.784022 ms  DeleteObjects: 19.283596 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 677)
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 152289.
-Total: 97.940600 ms (FindLiveObjects: 22.203500 ms CreateObjectMapping: 13.074500 ms MarkObjects: 61.346700 ms  DeleteObjects: 1.315000 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 558)
+Unloading 6982 unused Assets to reduce memory usage. Loaded Objects now: 27057.
+Total: 70.709024 ms (FindLiveObjects: 2.055380 ms CreateObjectMapping: 1.619591 ms MarkObjects: 56.203139 ms  DeleteObjects: 10.830366 ms)
 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+UnloadTime: 1.705203 ms
+Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
+Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
+Loaded saved language code 'RU'
+Restored language code 'RU'
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 73072.
+Total: 83.423514 ms (FindLiveObjects: 5.355069 ms CreateObjectMapping: 2.759905 ms MarkObjects: 74.825700 ms  DeleteObjects: 0.482161 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73073.
+Total: 82.099151 ms (FindLiveObjects: 4.390087 ms CreateObjectMapping: 3.297716 ms MarkObjects: 74.255830 ms  DeleteObjects: 0.155006 ms)
+
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
+Unloading 478 unused Assets to reduce memory usage. Loaded Objects now: 113363.
+Total: 89.507583 ms (FindLiveObjects: 7.269051 ms CreateObjectMapping: 4.185873 ms MarkObjects: 76.777301 ms  DeleteObjects: 1.274657 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 620)
+UnloadTime: 8.328668 ms
+Unloading 4495 unused Assets to reduce memory usage. Loaded Objects now: 135239.
+Total: 126.964159 ms (FindLiveObjects: 9.965755 ms CreateObjectMapping: 4.380872 ms MarkObjects: 102.987585 ms  DeleteObjects: 9.629372 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 626)
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 140842.
+Total: 120.049004 ms (FindLiveObjects: 9.872618 ms CreateObjectMapping: 4.195014 ms MarkObjects: 105.349629 ms  DeleteObjects: 0.631177 ms)
+
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 689)
+UnloadTime: 9.176567 ms
+Unloading 9177 unused Assets to reduce memory usage. Loaded Objects now: 135628.
+Total: 136.292105 ms (FindLiveObjects: 9.997247 ms CreateObjectMapping: 4.653360 ms MarkObjects: 91.964263 ms  DeleteObjects: 29.676605 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 698)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 150523.
+Total: 109.985662 ms (FindLiveObjects: 10.474784 ms CreateObjectMapping: 4.463364 ms MarkObjects: 94.414371 ms  DeleteObjects: 0.632389 ms)
+
+Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
@@ -1057,56 +355,72 @@ Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Next area display "Next Area Right (2)" in "Arborium" did not have map scene parent.
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
 Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 682)
-UnloadTime: 13.066200 ms
-Unloading 10723 unused Assets to reduce memory usage. Loaded Objects now: 138772.
-Total: 207.027500 ms (FindLiveObjects: 21.521000 ms CreateObjectMapping: 16.334400 ms MarkObjects: 73.091100 ms  DeleteObjects: 96.079200 ms)
+Sprite not found attached to tk2dSpriteAnimator.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
+UnloadTime: 6.694978 ms
+Unloading 10739 unused Assets to reduce memory usage. Loaded Objects now: 137112.
+Total: 139.174494 ms (FindLiveObjects: 8.775478 ms CreateObjectMapping: 4.093395 ms MarkObjects: 94.154918 ms  DeleteObjects: 32.150137 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 608)
-Unloading 6965 unused Assets to reduce memory usage. Loaded Objects now: 28973.
-Total: 126.160400 ms (FindLiveObjects: 3.914000 ms CreateObjectMapping: 3.369100 ms MarkObjects: 91.789200 ms  DeleteObjects: 27.087500 ms)
+Inactive coroutines were cleared: 1
+Unloading 0 Unused Serialized files (Serialized files now loaded: 558)
+Unloading 6962 unused Assets to reduce memory usage. Loaded Objects now: 27630.
+Total: 74.294297 ms (FindLiveObjects: 1.491309 ms CreateObjectMapping: 1.565738 ms MarkObjects: 59.693318 ms  DeleteObjects: 11.543454 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
-UnloadTime: 0.619600 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+UnloadTime: 0.723303 ms
+Controller is Unknown type with name (X360 Controller), will attempt matching based on name.
+Unable to match controller of name (X360 Controller), will attempt default mapping set.Unknown
 Loaded saved language code 'RU'
 Restored language code 'RU'
-Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 75535.
-Total: 91.041000 ms (FindLiveObjects: 9.170000 ms CreateObjectMapping: 5.472600 ms MarkObjects: 75.647800 ms  DeleteObjects: 0.749900 ms)
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 73627.
+Total: 92.017960 ms (FindLiveObjects: 8.185685 ms CreateObjectMapping: 3.921367 ms MarkObjects: 79.364549 ms  DeleteObjects: 0.545602 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75536.
-Total: 89.700700 ms (FindLiveObjects: 8.625500 ms CreateObjectMapping: 4.999200 ms MarkObjects: 75.873800 ms  DeleteObjects: 0.201200 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 608)
+Unloading 5541 unused Assets to reduce memory usage. Loaded Objects now: 68070.
+Total: 87.766540 ms (FindLiveObjects: 4.570313 ms CreateObjectMapping: 3.790605 ms MarkObjects: 70.468396 ms  DeleteObjects: 8.936664 ms)
 
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
-Input System polling thread stopped.
 Input System polling thread exited.
 Input System module state changed to: Shutdown.

@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     8024 MB
     Driver:   32.0.15.9159
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  5.368 seconds
+- Loaded All Assemblies, in  6.374 seconds
 - Finished resetting the current domain, in  0.005 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -26,11 +26,11 @@ Using Windows.Gaming.Input
 <RI> Input initialized.
 Input System polling thread started.
 <RI> Initialized touch support.
-UnloadTime: 0.800800 ms
+UnloadTime: 1.172600 ms
 GOG signing in...
 Selected online subsystem GOGGalaxyOnlineSubsystem
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 2.513800 ms
+UnloadTime: 2.455300 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'RU'
 Restored language code 'RU'
@@ -38,962 +38,536 @@ Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6506.
-Total: 6.665200 ms (FindLiveObjects: 0.679500 ms CreateObjectMapping: 0.283500 ms MarkObjects: 5.654800 ms  DeleteObjects: 0.041500 ms)
+Total: 7.092200 ms (FindLiveObjects: 0.703700 ms CreateObjectMapping: 0.308800 ms MarkObjects: 6.030000 ms  DeleteObjects: 0.042800 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13738.
-Total: 9.245400 ms (FindLiveObjects: 1.218400 ms CreateObjectMapping: 0.662500 ms MarkObjects: 7.325700 ms  DeleteObjects: 0.038100 ms)
+Total: 11.787400 ms (FindLiveObjects: 1.373400 ms CreateObjectMapping: 0.958400 ms MarkObjects: 9.401000 ms  DeleteObjects: 0.054100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 GOG authorization failed: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 11.475000 ms
+UnloadTime: 11.765300 ms
 Loaded saved language code 'RU'
 Restored language code 'RU'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67997.
-Total: 33.370400 ms (FindLiveObjects: 6.625100 ms CreateObjectMapping: 3.417600 ms MarkObjects: 22.828200 ms  DeleteObjects: 0.498500 ms)
+Total: 35.225400 ms (FindLiveObjects: 6.731200 ms CreateObjectMapping: 4.199900 ms MarkObjects: 23.811100 ms  DeleteObjects: 0.482600 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Unloading 3 Unused Serialized files (Serialized files now loaded: 596)
-Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 121071.
-Total: 66.731800 ms (FindLiveObjects: 15.433700 ms CreateObjectMapping: 13.387700 ms MarkObjects: 36.247800 ms  DeleteObjects: 1.661900 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 572)
+Unloading 282 unused Assets to reduce memory usage. Loaded Objects now: 112516.
+Total: 73.079600 ms (FindLiveObjects: 14.230800 ms CreateObjectMapping: 15.655200 ms MarkObjects: 40.835500 ms  DeleteObjects: 2.357400 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 7933 unused Assets to reduce memory usage. Loaded Objects now: 144366.
-Total: 185.263200 ms (FindLiveObjects: 21.508000 ms CreateObjectMapping: 12.945400 ms MarkObjects: 62.990700 ms  DeleteObjects: 87.818500 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 610)
+Unloading 7564 unused Assets to reduce memory usage. Loaded Objects now: 140161.
+Total: 181.800500 ms (FindLiveObjects: 19.204200 ms CreateObjectMapping: 12.002600 ms MarkObjects: 67.967600 ms  DeleteObjects: 82.625300 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 1731 unused Assets to reduce memory usage. Loaded Objects now: 144507.
-Total: 100.579000 ms (FindLiveObjects: 20.282300 ms CreateObjectMapping: 10.483900 ms MarkObjects: 55.207300 ms  DeleteObjects: 14.603800 ms)
+Coroutine couldn't be started because the the game object 'Attack Damager' is inactive!
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 604)
+Unloading 2682 unused Assets to reduce memory usage. Loaded Objects now: 140270.
+Total: 124.220400 ms (FindLiveObjects: 22.454100 ms CreateObjectMapping: 11.111000 ms MarkObjects: 63.634100 ms  DeleteObjects: 27.019600 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 1730 unused Assets to reduce memory usage. Loaded Objects now: 144508.
-Total: 108.790300 ms (FindLiveObjects: 20.439500 ms CreateObjectMapping: 9.510500 ms MarkObjects: 65.162000 ms  DeleteObjects: 13.677000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 1730 unused Assets to reduce memory usage. Loaded Objects now: 144508.
-Total: 107.375700 ms (FindLiveObjects: 22.654000 ms CreateObjectMapping: 9.395900 ms MarkObjects: 61.800100 ms  DeleteObjects: 13.525200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 1730 unused Assets to reduce memory usage. Loaded Objects now: 144576.
-Total: 100.944700 ms (FindLiveObjects: 17.810100 ms CreateObjectMapping: 9.031100 ms MarkObjects: 59.535500 ms  DeleteObjects: 14.559100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 1730 unused Assets to reduce memory usage. Loaded Objects now: 144577.
-Total: 92.862300 ms (FindLiveObjects: 17.627400 ms CreateObjectMapping: 9.429500 ms MarkObjects: 52.952200 ms  DeleteObjects: 12.851800 ms)
-
-Cannot use 'linearVelocity' on a static body.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor).
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Cannot set the parent of the GameObject 'Patrol Points' while activating or deactivating the parent GameObject 'Song Reed'.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Coroutine couldn't be started because the the game object 'Slashes Damager' is inactive!
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 20.621000 ms
-Unloading 10070 unused Assets to reduce memory usage. Loaded Objects now: 135346.
-Total: 203.784600 ms (FindLiveObjects: 17.822200 ms CreateObjectMapping: 11.824100 ms MarkObjects: 64.644000 ms  DeleteObjects: 109.492900 ms)
+Coroutine couldn't be started because the the game object 'terrain collider' is inactive!
+UnloadTime: 38.659500 ms
+Unloading 3785 unused Assets to reduce memory usage. Loaded Objects now: 135605.
+Total: 130.517500 ms (FindLiveObjects: 20.255900 ms CreateObjectMapping: 12.130100 ms MarkObjects: 65.665300 ms  DeleteObjects: 32.464400 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 7450 unused Assets to reduce memory usage. Loaded Objects now: 26763.
-Total: 109.638000 ms (FindLiveObjects: 3.062100 ms CreateObjectMapping: 2.220400 ms MarkObjects: 75.288200 ms  DeleteObjects: 29.066800 ms)
+Unloading 7016 unused Assets to reduce memory usage. Loaded Objects now: 27031.
+Total: 88.196200 ms (FindLiveObjects: 3.974400 ms CreateObjectMapping: 2.542100 ms MarkObjects: 55.702400 ms  DeleteObjects: 25.976600 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-UnloadTime: 1.336600 ms
+UnloadTime: 1.781400 ms
 Loaded saved language code 'RU'
 Restored language code 'RU'
-Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 73428.
-Total: 99.363200 ms (FindLiveObjects: 9.243900 ms CreateObjectMapping: 4.295400 ms MarkObjects: 81.860400 ms  DeleteObjects: 3.963100 ms)
+Unloading 82 unused Assets to reduce memory usage. Loaded Objects now: 73613.
+Total: 93.919300 ms (FindLiveObjects: 9.773000 ms CreateObjectMapping: 6.352600 ms MarkObjects: 76.427500 ms  DeleteObjects: 1.365500 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73429.
-Total: 84.534100 ms (FindLiveObjects: 7.952400 ms CreateObjectMapping: 4.248300 ms MarkObjects: 72.132900 ms  DeleteObjects: 0.199600 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73614.
+Total: 95.023700 ms (FindLiveObjects: 9.652900 ms CreateObjectMapping: 6.618500 ms MarkObjects: 78.413100 ms  DeleteObjects: 0.338400 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 590)
-Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 119257.
-Total: 99.125700 ms (FindLiveObjects: 15.671000 ms CreateObjectMapping: 12.084700 ms MarkObjects: 69.640600 ms  DeleteObjects: 1.728600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 566)
+Unloading 299 unused Assets to reduce memory usage. Loaded Objects now: 115151.
+Total: 90.882200 ms (FindLiveObjects: 14.366300 ms CreateObjectMapping: 9.991500 ms MarkObjects: 63.796700 ms  DeleteObjects: 2.727100 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixing.
-Can not play a disabled audio source
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Couldn't find transition point "door1", falling back to first available: "left2"
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-Unloading 6092 unused Assets to reduce memory usage. Loaded Objects now: 140433.
-Total: 180.985000 ms (FindLiveObjects: 21.868800 ms CreateObjectMapping: 11.599500 ms MarkObjects: 70.167300 ms  DeleteObjects: 77.348100 ms)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Started loading clips for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Freed clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Freed clips for Psalm Cylinder Hang
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Cannot use 'linearVelocity' on a static body.
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Hang
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Couldn't get collider for recoil, trying children...
+Couldn't get collider for recoil, trying children...
+Cannot use 'linearVelocity' on a static body.
+Started loading clips for Psalm Cylinder Librarian
+Started loading clips for Psalm Cylinder Ward
+Started loading clips for Psalm Cylinder Hang
+Started loading clips for Psalm Cylinder Grindle
+Started loading clips for Psalm Cylinder Library Roof
+Started loading clips for Librarian Melody Cylinder
+Finished loading gramaphone clip for Psalm Cylinder Librarian
+Finished loading gramaphone clip for Psalm Cylinder Ward
+Finished loading gramaphone clip for Psalm Cylinder Hang
+Finished loading gramaphone clip for Psalm Cylinder Grindle
+Finished loading gramaphone clip for Psalm Cylinder Library Roof
+Finished loading gramaphone clip for Librarian Melody Cylinder
+Finished loading needolin clip for Librarian Melody Cylinder
+Unloading 1 Unused Serialized files (Serialized files now loaded: 618)
+Unloading 6353 unused Assets to reduce memory usage. Loaded Objects now: 148927.
+Total: 219.356700 ms (FindLiveObjects: 23.833200 ms CreateObjectMapping: 12.111900 ms MarkObjects: 70.708100 ms  DeleteObjects: 112.702200 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-Unloading 3977 unused Assets to reduce memory usage. Loaded Objects now: 140591.
-Total: 138.080300 ms (FindLiveObjects: 17.383400 ms CreateObjectMapping: 9.842000 ms MarkObjects: 63.197800 ms  DeleteObjects: 47.656500 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
-Unloading 3961 unused Assets to reduce memory usage. Loaded Objects now: 140604.
-Total: 145.595100 ms (FindLiveObjects: 21.896200 ms CreateObjectMapping: 9.928700 ms MarkObjects: 65.643900 ms  DeleteObjects: 48.125900 ms)
-
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Unloading 1 Unused Serialized files (Serialized files now loaded: 589)
+Freed clips for Psalm Cylinder Librarian
+Freed clips for Psalm Cylinder Ward
+Freed clips for Psalm Cylinder Grindle
+Freed clips for Psalm Cylinder Library Roof
+Freed clips for Librarian Melody Cylinder
+Freed clips for Psalm Cylinder Hang
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
+HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
+HutongGames.PlayMaker.VibrationRegionPlayOneShot in understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Couldn't get collider for recoil, trying children...
+Unloading 1 Unused Serialized files (Serialized files now loaded: 600)
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
 Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Scene Manager missing from scene Cog_Dancers
-UnloadTime: 11.379400 ms
-Unloading 6244 unused Assets to reduce memory usage. Loaded Objects now: 135480.
-Total: 155.551900 ms (FindLiveObjects: 13.749100 ms CreateObjectMapping: 10.097600 ms MarkObjects: 69.445700 ms  DeleteObjects: 62.251300 ms)
+UnloadTime: 40.547700 ms
+Unloading 8361 unused Assets to reduce memory usage. Loaded Objects now: 136403.
+Total: 199.033400 ms (FindLiveObjects: 21.109300 ms CreateObjectMapping: 14.100000 ms MarkObjects: 70.396600 ms  DeleteObjects: 93.425900 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 7162 unused Assets to reduce memory usage. Loaded Objects now: 26855.
-Total: 78.865800 ms (FindLiveObjects: 2.935700 ms CreateObjectMapping: 2.795100 ms MarkObjects: 48.759800 ms  DeleteObjects: 24.374700 ms)
+Unloading 6908 unused Assets to reduce memory usage. Loaded Objects now: 27503.
+Total: 89.934900 ms (FindLiveObjects: 3.830000 ms CreateObjectMapping: 2.596000 ms MarkObjects: 57.955200 ms  DeleteObjects: 25.553000 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-UnloadTime: 0.612100 ms
+UnloadTime: 0.692900 ms
 Loaded saved language code 'RU'
 Restored language code 'RU'
-Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 73661.
-Total: 95.735000 ms (FindLiveObjects: 8.566500 ms CreateObjectMapping: 5.608300 ms MarkObjects: 81.254100 ms  DeleteObjects: 0.305600 ms)
+Unloading 215 unused Assets to reduce memory usage. Loaded Objects now: 73949.
+Total: 94.693000 ms (FindLiveObjects: 9.955900 ms CreateObjectMapping: 4.740000 ms MarkObjects: 78.373200 ms  DeleteObjects: 1.623100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73662.
-Total: 95.325000 ms (FindLiveObjects: 10.093600 ms CreateObjectMapping: 8.366200 ms MarkObjects: 76.662600 ms  DeleteObjects: 0.201800 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73950.
+Total: 88.678200 ms (FindLiveObjects: 9.086200 ms CreateObjectMapping: 7.503600 ms MarkObjects: 71.839100 ms  DeleteObjects: 0.248600 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 575)
-Unloading 164 unused Assets to reduce memory usage. Loaded Objects now: 113309.
-Total: 86.191400 ms (FindLiveObjects: 14.239300 ms CreateObjectMapping: 8.979900 ms MarkObjects: 60.874400 ms  DeleteObjects: 2.097200 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Cannot use 'linearVelocity' on a static body.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 614)
-Unloading 5401 unused Assets to reduce memory usage. Loaded Objects now: 140149.
-Total: 167.952700 ms (FindLiveObjects: 20.834000 ms CreateObjectMapping: 10.847300 ms MarkObjects: 63.210200 ms  DeleteObjects: 73.059300 ms)
-
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
-Unloading 3983 unused Assets to reduce memory usage. Loaded Objects now: 140385.
-Total: 190.333500 ms (FindLiveObjects: 23.462300 ms CreateObjectMapping: 13.459200 ms MarkObjects: 80.189600 ms  DeleteObjects: 73.220700 ms)
-
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Encountered broken activeBool in SendRandomEventV4! Fixing automatically.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Cannot use 'linearVelocity' on a static body.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Started loading clips for Psalm Cylinder Librarian
 Started loading clips for Psalm Cylinder Ward
@@ -1008,71 +582,88 @@ Finished loading gramaphone clip for Psalm Cylinder Grindle
 Finished loading gramaphone clip for Psalm Cylinder Library Roof
 Finished loading gramaphone clip for Librarian Melody Cylinder
 Finished loading needolin clip for Librarian Melody Cylinder
+Unloading 1 Unused Serialized files (Serialized files now loaded: 574)
+Unloading 289 unused Assets to reduce memory usage. Loaded Objects now: 118043.
+Total: 93.998500 ms (FindLiveObjects: 20.180800 ms CreateObjectMapping: 11.837700 ms MarkObjects: 59.291800 ms  DeleteObjects: 2.687600 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
 Freed clips for Psalm Cylinder Librarian
 Freed clips for Psalm Cylinder Ward
 Freed clips for Psalm Cylinder Grindle
 Freed clips for Psalm Cylinder Library Roof
 Freed clips for Librarian Melody Cylinder
 Freed clips for Psalm Cylinder Hang
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Started loading clips for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
-Freed clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Freed clips for Psalm Cylinder Hang
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Animator.GotoState: State could not be found
+Invalid Layer Index '-1'
+Cannot use 'linearVelocity' on a static body.
 Cannot use 'linearVelocity' on a static body.
 Started loading clips for Psalm Cylinder Hang
 Finished loading gramaphone clip for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
-Unloading 5340 unused Assets to reduce memory usage. Loaded Objects now: 148654.
-Total: 191.251300 ms (FindLiveObjects: 20.854200 ms CreateObjectMapping: 10.806700 ms MarkObjects: 64.553600 ms  DeleteObjects: 95.035200 ms)
-
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
 Freed clips for Psalm Cylinder Hang
 Started loading clips for Psalm Cylinder Hang
 Finished loading gramaphone clip for Psalm Cylinder Hang
@@ -1082,432 +673,437 @@ Using fallback 1 to find tilemap. Scene Bellshrine_Enclave requires manual fixin
 Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
 Couldn't find transition point "door1", falling back to first available: "left2"
 Unloading 1 Unused Serialized files (Serialized files now loaded: 630)
-UnloadTime: 21.848600 ms
-Unloading 10447 unused Assets to reduce memory usage. Loaded Objects now: 135929.
-Total: 210.374800 ms (FindLiveObjects: 25.617300 ms CreateObjectMapping: 11.836200 ms MarkObjects: 68.514600 ms  DeleteObjects: 104.405000 ms)
+UnloadTime: 22.552500 ms
+Unloading 11381 unused Assets to reduce memory usage. Loaded Objects now: 136511.
+Total: 246.590000 ms (FindLiveObjects: 22.720900 ms CreateObjectMapping: 14.436300 ms MarkObjects: 77.187600 ms  DeleteObjects: 132.244000 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 611)
-Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 144836.
-Total: 106.099500 ms (FindLiveObjects: 21.504300 ms CreateObjectMapping: 8.429100 ms MarkObjects: 75.094700 ms  DeleteObjects: 1.070600 ms)
-
-Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-4c86b47ae5500a27be89ac060e3ea2b6/CAB-4c86b47ae5500a27be89ac060e3ea2b6.resource
-Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
-Couldn't find transition point "door3", falling back to first available: "door5"
-Started loading clips for Bone Record Bone_East_14
-Started loading clips for Bone Record Greymoor_flooded_corridor
-Started loading clips for Bone Record Understore_Map_Room
-Started loading clips for Bone Record Wisp Top
-Started loading clips for Weaver Totem Bonetown_upper_room
-Started loading clips for Weaver Totem Witch
-Started loading clips for Weaver Totem Slab_Bottom
-Started loading clips for Seal Chit Aspid_01
-Started loading clips for Seal Chit Ward Corpse
-Started loading clips for Seal Chit City Merchant
-Started loading clips for Seal Chit Silk Siphon
-Started loading clips for Weaver Record Weave_08
-Started loading clips for Weaver Record Sprint_Challenge
-Started loading clips for Weaver Record Conductor
-Started loading clips for Ancient Egg Abyss Middle
-Started loading clips for Psalm Cylinder Librarian
-Started loading clips for Psalm Cylinder Ward
-Started loading clips for Psalm Cylinder Hang
-Started loading clips for Psalm Cylinder Grindle
-Started loading clips for Psalm Cylinder Library Roof
-Started loading clips for Librarian Melody Cylinder
-Finished loading gramaphone clip for Psalm Cylinder Librarian
-Finished loading gramaphone clip for Psalm Cylinder Ward
-Finished loading gramaphone clip for Psalm Cylinder Hang
-Finished loading gramaphone clip for Psalm Cylinder Grindle
-Finished loading gramaphone clip for Psalm Cylinder Library Roof
-Finished loading gramaphone clip for Librarian Melody Cylinder
-Finished loading needolin clip for Librarian Melody Cylinder
-Freed clips for Bone Record Bone_East_14
-Freed clips for Bone Record Greymoor_flooded_corridor
-Freed clips for Bone Record Understore_Map_Room
-Freed clips for Bone Record Wisp Top
-Freed clips for Weaver Totem Bonetown_upper_room
-Freed clips for Weaver Totem Witch
-Freed clips for Weaver Totem Slab_Bottom
-Freed clips for Seal Chit Aspid_01
-Freed clips for Seal Chit Ward Corpse
-Freed clips for Seal Chit City Merchant
-Freed clips for Seal Chit Silk Siphon
-Freed clips for Weaver Record Weave_08
-Freed clips for Weaver Record Sprint_Challenge
-Freed clips for Weaver Record Conductor
-Freed clips for Ancient Egg Abyss Middle
-Freed clips for Psalm Cylinder Librarian
-Freed clips for Psalm Cylinder Ward
-Freed clips for Psalm Cylinder Hang
-Freed clips for Psalm Cylinder Grindle
-Freed clips for Psalm Cylinder Library Roof
-Freed clips for Librarian Melody Cylinder
-Couldn't find transition point "door4", falling back to first available: "door5"
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
-Unloading 1 Unused Serialized files (Serialized files now loaded: 635)
-UnloadTime: 12.984500 ms
-Unloading 7249 unused Assets to reduce memory usage. Loaded Objects now: 135948.
-Total: 168.386700 ms (FindLiveObjects: 19.858800 ms CreateObjectMapping: 11.492200 ms MarkObjects: 72.069600 ms  DeleteObjects: 64.965400 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 150931.
-Total: 107.624400 ms (FindLiveObjects: 22.254900 ms CreateObjectMapping: 11.641800 ms MarkObjects: 73.039600 ms  DeleteObjects: 0.687600 ms)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 145960.
+Total: 99.369500 ms (FindLiveObjects: 20.229400 ms CreateObjectMapping: 11.171500 ms MarkObjects: 66.537300 ms  DeleteObjects: 1.430700 ms)
 
 Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
+Hazard Respawn Trigger v2 (12) does not have a Hazard Respawn Marker Set
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.CheckHeroPerformanceRegion : MinReactDelay
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : waitMin
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : waitMax
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : speedMax
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : accelerationMin
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Error Loading Action: Idle : HutongGames.PlayMaker.Actions.IdleBuzzV3 : roamingRangeX
+System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+  at System.Text.UTF8Encoding.GetString (System.Byte[] bytes, System.Int32 index, System.Int32 count) [0x0001b] in <e19fb1224222436ca0871ff12e7fb293>:0 
+  at HutongGames.PlayMaker.FsmUtility.ByteArrayToFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Byte[] bytes, System.Int32 startIndex, System.Int32 totalLength) [0x00005] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.GetFsmFloat (HutongGames.PlayMaker.Fsm fsm, System.Int32 paramIndex) [0x000d2] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.LoadActionField (HutongGames.PlayMaker.Fsm fsm, System.Object obj, System.Reflection.FieldInfo field, System.Int32 paramIndex) [0x0009c] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+  at HutongGames.PlayMaker.ActionData.CreateAction (HutongGames.PlayMaker.ActionData+Context context, System.Int32 actionIndex) [0x00260] in <46c7fbbaa3a1440d8ba53ce9dd09b77b>:0 
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 621)
+Unloading 5076 unused Assets to reduce memory usage. Loaded Objects now: 147942.
+Total: 162.395300 ms (FindLiveObjects: 22.219000 ms CreateObjectMapping: 12.638500 ms MarkObjects: 68.601400 ms  DeleteObjects: 58.934800 ms)
+
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
+UnloadTime: 16.857800 ms
+Unloading 7629 unused Assets to reduce memory usage. Loaded Objects now: 136117.
+Total: 160.224500 ms (FindLiveObjects: 21.292500 ms CreateObjectMapping: 13.235000 ms MarkObjects: 72.644400 ms  DeleteObjects: 53.051200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 601)
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 143772.
+Total: 108.826900 ms (FindLiveObjects: 24.560300 ms CreateObjectMapping: 13.260800 ms MarkObjects: 68.277600 ms  DeleteObjects: 2.727500 ms)
+
+Can not play a disabled audio source
+Can not play a disabled audio source
 Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-HutongGames.PlayMaker.VibrationRegionPlayOneShot in propeller understore propeller (UnityEngine.GameObject) is missing Hero Vibration Region object
-Unloading 1 Unused Serialized files (Serialized files now loaded: 598)
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-Attempting to get `time` on an audio source that has a resource that is not a clip will always return 0.
-UnloadTime: 30.168600 ms
-Unloading 6394 unused Assets to reduce memory usage. Loaded Objects now: 136267.
-Total: 151.271100 ms (FindLiveObjects: 15.843000 ms CreateObjectMapping: 10.734400 ms MarkObjects: 50.750900 ms  DeleteObjects: 73.941200 ms)
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-74414972cb415d866e51ce80a0999ed7/CAB-74414972cb415d866e51ce80a0999ed7.resource
+Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Can not play a disabled audio source
+Can not play a disabled audio source
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Cannot set the parent of the GameObject 'Air Blow Region Updraft(Clone)' while activating or deactivating the parent GameObject 'Updraft Region'.
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
+UnloadTime: 16.767400 ms
+Unloading 10986 unused Assets to reduce memory usage. Loaded Objects now: 136826.
+Total: 266.488600 ms (FindLiveObjects: 25.977500 ms CreateObjectMapping: 14.191600 ms MarkObjects: 75.850400 ms  DeleteObjects: 150.448300 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 7099 unused Assets to reduce memory usage. Loaded Objects now: 27883.
-Total: 113.905100 ms (FindLiveObjects: 3.073800 ms CreateObjectMapping: 2.565000 ms MarkObjects: 81.750200 ms  DeleteObjects: 26.515600 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 645)
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 149490.
+Total: 98.844700 ms (FindLiveObjects: 20.449300 ms CreateObjectMapping: 12.218100 ms MarkObjects: 64.930900 ms  DeleteObjects: 1.245700 ms)
 
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-Couldn't find GameCameras, make sure one exists in the scene.
-UnloadTime: 0.696700 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 1633 unused Assets to reduce memory usage. Loaded Objects now: 149397.
+Total: 114.536900 ms (FindLiveObjects: 20.675900 ms CreateObjectMapping: 11.330800 ms MarkObjects: 60.684700 ms  DeleteObjects: 21.844900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 1616 unused Assets to reduce memory usage. Loaded Objects now: 149470.
+Total: 117.347100 ms (FindLiveObjects: 22.860200 ms CreateObjectMapping: 11.102900 ms MarkObjects: 64.080000 ms  DeleteObjects: 19.303300 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 1625 unused Assets to reduce memory usage. Loaded Objects now: 149570.
+Total: 123.123000 ms (FindLiveObjects: 20.175600 ms CreateObjectMapping: 12.764300 ms MarkObjects: 68.478000 ms  DeleteObjects: 21.704500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 1614 unused Assets to reduce memory usage. Loaded Objects now: 149665.
+Total: 114.458100 ms (FindLiveObjects: 19.769600 ms CreateObjectMapping: 11.153300 ms MarkObjects: 62.166300 ms  DeleteObjects: 21.354100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 1614 unused Assets to reduce memory usage. Loaded Objects now: 149628.
+Total: 118.073000 ms (FindLiveObjects: 20.462000 ms CreateObjectMapping: 11.591300 ms MarkObjects: 66.141600 ms  DeleteObjects: 19.877600 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 640)
+Scene Manager missing from scene Bone_East_08
+UnloadTime: 25.981400 ms
+Unloading 5368 unused Assets to reduce memory usage. Loaded Objects now: 137609.
+Total: 142.649700 ms (FindLiveObjects: 20.606800 ms CreateObjectMapping: 14.218400 ms MarkObjects: 65.809400 ms  DeleteObjects: 42.014400 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 574)
+Unloading 7696 unused Assets to reduce memory usage. Loaded Objects now: 28032.
+Total: 101.260300 ms (FindLiveObjects: 4.431300 ms CreateObjectMapping: 2.989400 ms MarkObjects: 61.926300 ms  DeleteObjects: 31.912700 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 627)
+UnloadTime: 0.737300 ms
 Loaded saved language code 'RU'
 Restored language code 'RU'
-Unloading 146 unused Assets to reduce memory usage. Loaded Objects now: 74385.
-Total: 90.183400 ms (FindLiveObjects: 8.699300 ms CreateObjectMapping: 6.130200 ms MarkObjects: 73.481700 ms  DeleteObjects: 1.871300 ms)
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 74617.
+Total: 92.162200 ms (FindLiveObjects: 9.387000 ms CreateObjectMapping: 6.485300 ms MarkObjects: 75.588300 ms  DeleteObjects: 0.701000 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74386.
-Total: 85.913700 ms (FindLiveObjects: 8.433300 ms CreateObjectMapping: 4.791300 ms MarkObjects: 72.444200 ms  DeleteObjects: 0.244300 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 625)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74618.
+Total: 83.660000 ms (FindLiveObjects: 9.228100 ms CreateObjectMapping: 6.371000 ms MarkObjects: 67.826200 ms  DeleteObjects: 0.234000 ms)
 
+MenuButton missing flashEffect!
+Making UI menu lean.
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Unloading 1 Unused Serialized files (Serialized files now loaded: 633)
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 118150.
+Total: 76.649900 ms (FindLiveObjects: 13.513900 ms CreateObjectMapping: 10.248400 ms MarkObjects: 51.186800 ms  DeleteObjects: 1.700200 ms)
+
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Converting Vertex Colors from Color32 to Color.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Unloading 1 Unused Serialized files (Serialized files now loaded: 650)
+UnloadTime: 18.035700 ms
+Unloading 5399 unused Assets to reduce memory usage. Loaded Objects now: 136344.
+Total: 133.457900 ms (FindLiveObjects: 19.385000 ms CreateObjectMapping: 13.843900 ms MarkObjects: 70.117900 ms  DeleteObjects: 30.110500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 647)
+Unloading 162 unused Assets to reduce memory usage. Loaded Objects now: 145457.
+Total: 101.149100 ms (FindLiveObjects: 20.594900 ms CreateObjectMapping: 12.191600 ms MarkObjects: 67.150900 ms  DeleteObjects: 1.211100 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Unloading 1 Unused Serialized files (Serialized files now loaded: 695)
+UnloadTime: 14.841200 ms
+Unloading 6450 unused Assets to reduce memory usage. Loaded Objects now: 136166.
+Total: 160.018700 ms (FindLiveObjects: 22.484500 ms CreateObjectMapping: 12.924700 ms MarkObjects: 68.969100 ms  DeleteObjects: 55.639000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 659)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 144553.
+Total: 97.161500 ms (FindLiveObjects: 18.795100 ms CreateObjectMapping: 11.908700 ms MarkObjects: 66.108200 ms  DeleteObjects: 0.348800 ms)
+
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
+Scene Manager missing from scene Bellway_08
+UnloadTime: 10.543500 ms
+Unloading 6939 unused Assets to reduce memory usage. Loaded Objects now: 136633.
+Total: 137.856000 ms (FindLiveObjects: 21.027700 ms CreateObjectMapping: 13.390700 ms MarkObjects: 65.855500 ms  DeleteObjects: 37.580800 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 671)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 146193.
+Total: 94.935900 ms (FindLiveObjects: 21.246400 ms CreateObjectMapping: 10.217100 ms MarkObjects: 63.058500 ms  DeleteObjects: 0.413200 ms)
+
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Can not play a disabled audio source
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
+Unloading 4485 unused Assets to reduce memory usage. Loaded Objects now: 158136.
+Total: 169.311200 ms (FindLiveObjects: 28.289000 ms CreateObjectMapping: 13.738700 ms MarkObjects: 72.397600 ms  DeleteObjects: 54.884800 ms)
+
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
+Unloading 393 unused Assets to reduce memory usage. Loaded Objects now: 159395.
+Total: 118.746400 ms (FindLiveObjects: 22.379100 ms CreateObjectMapping: 10.716600 ms MarkObjects: 71.597800 ms  DeleteObjects: 14.051400 ms)
+
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
+Unloading 380 unused Assets to reduce memory usage. Loaded Objects now: 159817.
+Total: 118.959800 ms (FindLiveObjects: 22.903800 ms CreateObjectMapping: 12.030000 ms MarkObjects: 71.232200 ms  DeleteObjects: 12.792900 ms)
+
+Can not play a disabled audio source
+Unloading 1 Unused Serialized files (Serialized files now loaded: 687)
+Unloading 380 unused Assets to reduce memory usage. Loaded Objects now: 159804.
+Total: 122.326200 ms (FindLiveObjects: 23.111900 ms CreateObjectMapping: 12.824100 ms MarkObjects: 73.042200 ms  DeleteObjects: 13.347100 ms)
+
+Cannot use 'linearVelocity' on a static body.
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Couldn't find transition point "door1", falling back to first available: "bot1"
+Can not play a disabled audio source
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Unloading 1 Unused Serialized files (Serialized files now loaded: 688)
+UnloadTime: 14.687900 ms
+Unloading 8875 unused Assets to reduce memory usage. Loaded Objects now: 142882.
+Total: 205.644900 ms (FindLiveObjects: 23.398500 ms CreateObjectMapping: 15.328000 ms MarkObjects: 81.644700 ms  DeleteObjects: 85.272200 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 677)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 152289.
+Total: 97.940600 ms (FindLiveObjects: 22.203500 ms CreateObjectMapping: 13.074500 ms MarkObjects: 61.346700 ms  DeleteObjects: 1.315000 ms)
+
+Could Not Create Action: : Dialogue: Churchkeeper:  (Maybe the script was removed?)
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Text Type (TextMeshUpdateMinHeight) Setting height to 0.65 for Изучение
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam L' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Cannot set the parent of the GameObject 'Pt Slam Roof' while activating or deactivating the parent GameObject 'Bone Thumper(Clone)'.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 682)
+UnloadTime: 13.066200 ms
+Unloading 10723 unused Assets to reduce memory usage. Loaded Objects now: 138772.
+Total: 207.027500 ms (FindLiveObjects: 21.521000 ms CreateObjectMapping: 16.334400 ms MarkObjects: 73.091100 ms  DeleteObjects: 96.079200 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 608)
+Unloading 6965 unused Assets to reduce memory usage. Loaded Objects now: 28973.
+Total: 126.160400 ms (FindLiveObjects: 3.914000 ms CreateObjectMapping: 3.369100 ms MarkObjects: 91.789200 ms  DeleteObjects: 27.087500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 660)
+UnloadTime: 0.619600 ms
+Loaded saved language code 'RU'
+Restored language code 'RU'
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 75535.
+Total: 91.041000 ms (FindLiveObjects: 9.170000 ms CreateObjectMapping: 5.472600 ms MarkObjects: 75.647800 ms  DeleteObjects: 0.749900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 658)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 75536.
+Total: 89.700700 ms (FindLiveObjects: 8.625500 ms CreateObjectMapping: 4.999200 ms MarkObjects: 75.873800 ms  DeleteObjects: 0.201200 ms)
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
